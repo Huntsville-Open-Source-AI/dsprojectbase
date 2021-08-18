@@ -1,0 +1,5 @@
+PROJECTNAME=dsprojectbase
+IMAGENAME=$PROJECTNAME
+DOCKERHUBUSERNAME=huntsvilleopensourceai
+TAGNAME=latest
+
